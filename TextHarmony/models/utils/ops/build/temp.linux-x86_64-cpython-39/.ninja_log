@@ -1,0 +1,4 @@
+# ninja log v5
+2	21356	1707319042849568000	MM-Interleaved/mm_interleaved/models/utils/ops/build/temp.linux-x86_64-cpython-39MM-Interleaved/mm_interleaved/models/utils/ops/src/cpu/ms_deform_attn_cpu.o	5b89eef9bbefdddf
+3	35429	1707319056914530000	MM-Interleaved/mm_interleaved/models/utils/ops/build/temp.linux-x86_64-cpython-39MM-Interleaved/mm_interleaved/models/utils/ops/src/vision.o	c18d90d942f432cf
+2	87589	1707319109082569000	MM-Interleaved/mm_interleaved/models/utils/ops/build/temp.linux-x86_64-cpython-39MM-Interleaved/mm_interleaved/models/utils/ops/src/cuda/ms_deform_attn_cuda.o	4900055df687b016

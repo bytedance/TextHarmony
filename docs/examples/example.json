@@ -1,0 +1,59 @@
+[
+    {
+        "sentences": [
+            "Generate an image according to the caption. A cake of \"Good Time\". Outdoor, bright, sunny, happiness.", 
+            ""
+        ], 
+        "images": [
+            "TextHarmony/docs/examples/all_zero.jpg", 
+            "TextHarmony/docs/examples/all_zero.jpg"
+        ], 
+        "sentence_ixs": [0, 1], 
+        "image_first": [true, true], 
+        "generate_mode": "generate_images", 
+        "num_iter": 1
+    },
+
+    {
+        "sentences": [
+            "Generate an image according to the caption. A T-shirt of \"Keep Focused\". Outdoor, bright, sunny, happiness, 24k.", 
+            ""
+        ], 
+        "images": [
+            "TextHarmony/docs/examples/all_zero.jpg", 
+            "TextHarmony/docs/examples/all_zero.jpg"
+        ], 
+        "sentence_ixs": [0, 1], 
+        "image_first": [true, true], 
+        "generate_mode": "generate_images", 
+        "num_iter": 1
+    },
+
+    {
+        "sentences": [
+            "Generate an image according to the caption. Photo of A book cover of \"Summer Love\". Outdoor, bright, sunny, happiness, 24k.", 
+            ""
+        ], 
+        "images": [
+            "TextHarmony/docs/examples/all_zero.jpg", 
+            "TextHarmony/docs/examples/all_zero.jpg"
+        ], 
+        "sentence_ixs": [0, 1], 
+        "image_first": [true, true], 
+        "generate_mode": "generate_images", 
+        "num_iter": 1
+    },
+
+    {
+        "sentences": [
+            "Who wrote this book?"
+        ], 
+        "images": [
+            "TextHarmony/docs/examples/book.jpg"
+        ], 
+        "sentence_ixs": [0], 
+        "image_first": [true], 
+        "generate_mode": "generate_texts", 
+        "num_iter": 1
+    }
+]
